@@ -1,0 +1,1 @@
+# Linux_Sudo_Yonetimi
